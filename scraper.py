@@ -283,7 +283,7 @@ def search_titles(query, page=1):
         "results": results
     }
 
-### VATEGORY MAPPING ###
+### CATEGORY MAPPING ###
 def get_category_map():
     category_map = {}
 
