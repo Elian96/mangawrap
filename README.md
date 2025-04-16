@@ -65,3 +65,27 @@ python app.py
   "description": "A story about a ninja boy named Naruto..."
 }
 ```
+
+## 🧠 Use Cases
+- Build custom manga frontends
+
+- Create bots and recommendation engines
+
+- Integrate with mobile apps
+
+- Collect stats, reviews, genres, and more
+
+## 🤝 Contributing
+Pull requests and ideas are always welcome. Feel free to fork and extend!
+
+## 📄 License
+MIT
+
+## ❤️ Acknowledgments
+- MangaDex for the content
+
+- Playwright for JS rendering
+
+- BeautifulSoup for HTML parsing
+
+
