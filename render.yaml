@@ -2,7 +2,7 @@ services:
   - type: web
     name: mangawrap
     env: python
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install -r requirements.txt && playwright install
     startCommand: ./start.sh
     plan: free
     autoDeploy: true
